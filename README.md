@@ -1,2 +1,2 @@
-# recetario-panaderia
-sistema de recetas de panaderia
+# Prototipo web de recetario de panaderia
+Ejecutar: python app.py
